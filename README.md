@@ -36,3 +36,6 @@ The system always gives the same output for the same input. No randomness is use
 - Do NOT generate random suggestions
 - Only select from fixed outputs
 - Stay within mental wellness context
+
+- This implementation ensures determinism by using fixed conditional logic.
+No probabilistic or AI-based responses are used in Part A.
